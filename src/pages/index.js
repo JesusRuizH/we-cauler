@@ -17,7 +17,8 @@ export default function Home() {
             <span>Web-Crawler</span>
         </a>
     </div>
-    <div class="w-1/2 lg:h-full flex lg:items-end justify-center p-4">
+    <div class="absolute inset-x-0 top-0 h-16">
+      <img src="https://cdn-icons-png.flaticon.com/256/8149/8149271.png" />
     </div>
 </div>
   )
